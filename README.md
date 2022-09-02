@@ -40,6 +40,7 @@ VPS is sponsored by Uptime Kuma sponsors on [Open Collective](https://opencollec
 * 2FA available
 
 ## 🔧 How to Install
+bruh
 
 ### 🐳 Docker
 
